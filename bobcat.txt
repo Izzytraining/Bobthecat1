@@ -1,0 +1,5 @@
+Bob sleeps
+Bob eats
+Bob purrs
+Bob bites
+Bob is cat
