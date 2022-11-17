@@ -5,3 +5,7 @@ Bob bites
 Bob the cat
 Bob
 bob bob
+Bird sleeps
+Bird eats
+Bird flys
+Bird watches
