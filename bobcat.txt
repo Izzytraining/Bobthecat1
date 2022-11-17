@@ -9,3 +9,7 @@ Bird sleeps
 Bird eats
 Bird flys
 Bird watches
+Mouse sleeps
+Mouse eats
+Mouse runs
+Mouse hides
